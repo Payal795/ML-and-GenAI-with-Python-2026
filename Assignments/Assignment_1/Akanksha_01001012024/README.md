@@ -1,6 +1,6 @@
 # Student Details
 
-**Student Name:** Akanksha
+**Student Name:** Akanksha Maurya
 
 **Enrollment Number:** 01001012024
 
